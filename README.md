@@ -187,9 +187,9 @@ ICU_3: Entrance → Ward_B → ICU_3
 
 ## 👤 Author
 
-**[Your Name]**
+**[Vaishnavi Sagar Jadhav]**
 B.Tech CSE (AI & ML), 1st Year
-[Your College Name]
+
 
 ---
 
